@@ -34,6 +34,8 @@ Enjoy Learning | Flutter Developer | Full-Stack Engineer |
 <p align="left">
   <a href="https://dreadsec.me/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LokmanHossen&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
+     <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokmanHossen&layout=compact&langs_count=10&theme=dark" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LokmanHossen&theme=gruvbox&hide_border=true">		  
   </a>
 </p>
