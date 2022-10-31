@@ -31,14 +31,15 @@ Enjoy Learning | Flutter Developer | Full-Stack Engineer |
 </p>
 
 <br/>
-<p align="left">
+<div align="center">
   <a href="https://dreadsec.me/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LokmanHossen&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
      <img height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokmanHossen&layout=compact&langs_count=10&theme=dark" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LokmanHossen&theme=gruvbox&hide_border=true">		  
   </a>
-</p>
+</div>
+
 <br>
 
 [![Dread's Activity Graph](https://activity-graph.herokuapp.com/graph?username=LokmanHossen&custom_title=Dread's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
