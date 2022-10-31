@@ -36,7 +36,7 @@ Enjoy Learning | Flutter Developer | Full-Stack Engineer |
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LokmanHossen&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true">	  
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LokmanHossen&theme=gruvbox&count_private=true">
  <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokmanHossen&layout=compact&langs_count=10&theme=dark" />		  
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokmanHossen&layout=compact&langs_count=10&theme=gruvbox" />		  
 </div>
 
 <br>
