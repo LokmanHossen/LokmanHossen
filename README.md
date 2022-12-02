@@ -41,7 +41,7 @@ Enjoy Learning | Flutter Developer | Full-Stack Engineer |
 
 <br>
 
-[![Dread's Activity Graph](https://activity-graph.herokuapp.com/graph?username=LokmanHossen&custom_title=Dread's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
+[![Dread's Activity Graph](https://activity-graph.herokuapp.com/graph?username=LokmanHossen&custom_title=%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
 <p align="center"><img src="https://profile-counter.glitch.me/{LokmanHossen}/count.svg"></p>
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30">		
