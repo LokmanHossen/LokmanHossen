@@ -39,7 +39,6 @@ Enjoy Learning | Flutter Developer | Full-Stack Engineer |
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokmanhossen&layout=compact&langs_count=10&theme=gruvbox" />
 </div>
-
  <div align="center">
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LokmanHossen&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
