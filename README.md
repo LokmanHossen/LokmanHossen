@@ -35,14 +35,14 @@ Enjoy Learning | Flutter Developer | Full-Stack Engineer |
 <div align="center">
   <a href="https://github.com/LokmanHossen">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=LokmanHossen&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=LokmanHossen&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokmanhossen&layout=compact&langs_count=10&theme=dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokmanhossen&layout=compact&langs_count=10&theme=gruvbox" />
 </div>
 
  <div align="center">
    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LokmanHossen&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LokmanHossen&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
   </div>
 	
 
