@@ -1,4 +1,5 @@
-<h1 align="center"> Hello! <img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px"> , I'm <a href="https://github.com/LokmanHossen">Md. Lokman Hossen</a> !</h1>
+<h1 align="center"> Hello! <img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px"> , </h1>  
+<p>I'm <a href="https://github.com/LokmanHossen">Md. Lokman Hossen</a> ! </p>
 
 
 <h1 align="center">
