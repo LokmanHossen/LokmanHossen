@@ -5,7 +5,7 @@ I'm <a href="https://github.com/LokmanHossen">Md. Lokman Hossen</a> !
 </h1>
 
 <h1 align="center">
-Enjoy Learning | Flutter Developer | Full-Stack Engineer | 
+Enjoy Learning | Flutter Developer |
 </h1>
 
 <h1 align="center">
